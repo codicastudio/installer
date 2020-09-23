@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/installer",
+    "name": "codica-studio/installer",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/installer",
+    "homepage": "https://github.com/codica-studio/installer",
     "license": "MIT",
     "authors": [
         {
