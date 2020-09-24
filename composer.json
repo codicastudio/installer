@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/installer",
+    "name": "codicastudio/installer",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/installer",
@@ -33,5 +33,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
